@@ -15,8 +15,7 @@ This is Shopify website clone project. . I have created this full website using 
 
 ## What did I learn by making this project?
 
--   learn using background images in tailwindcss.
--   learn using different images in different breakpoints.
+-   learn Flex and its attributes.
 
 ##  Time taken ?
 
